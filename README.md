@@ -1,6 +1,8 @@
 Code und Dokument für Roche Schullabor EXPERIO
 ===
-Jitao David Zhang, Feb 2024
+Jitao David Zhang mit Hilfe von Giulia Ferraina und Jannick Lippuner, Feb 2024
+
+Wir benutzen [JupyterLab](https://jupyter.org/try-jupyter/lab/) für den Kurs.
 
 # Text für Übung
 
